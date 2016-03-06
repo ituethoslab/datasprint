@@ -1,4 +1,4 @@
-#this file contains observational notes from the Watson Analytics datasprint
+#This file contains observational notes from the Watson Analytics datasprint
 
 - Team “Phr0z3nG047s" (PG)
 Jakob
