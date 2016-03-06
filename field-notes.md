@@ -10,16 +10,16 @@ Cæcilie | Nicolai
 **10:35(ish)**
 Groups divide and start working. Both groups approach the datasprint in an apparently ad hoc manner, not structuring their work 
 in any extended manner. This is unsurprising given that they are only 4 in each group. Team NJJ outline the following agenda:
-1. Explore Data
-2. Formulate Questions
-3. Formulate hypothesis
-4. Work
-5. Win!
+- 1. Explore Data
+- 2. Formulate Questions
+- 3. Formulate hypothesis
+- 4. Work
+- 5. Win!
 
-Team PG 
-1. Explore and clean data
-2. Look at data and find out what is interesting
-3. Find out how to visualize data
+Team PG 's agenda was, roughly:
+- 1. Explore and clean data
+- 2. Look at data and find out what is interesting
+- 3. Find out how to visualize data
 
 **12:30**
 Groups have been working for around two hours. Most started with Trifacta, but have now reached working with Watson. 
