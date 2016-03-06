@@ -43,7 +43,7 @@ it to any large extent and have actually experienced technical difficulties with
 Bastian from team PG comments that maybe the issue isn't Watson, as much of their own relative skill level. Jakob agrees, but adds 
 that it would also help if it wasn't so slow. 
 
-*14:10**
+**14:10**
 Team NJJ are listening to tutorials for using the tools. 
 
 **14:20**
