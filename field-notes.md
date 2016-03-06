@@ -1,16 +1,11 @@
 #Watson Analytics datasprint observational notes
 
-- Team “Phr0z3nG047s" (PG)
-Jakob
-Nynne
-Bastian
-Cæcilie
-
-- Team “No Jar Jar" (NJJ)
-Carl Johan
-Pedro
-Tiemo
-Nicolai
+Team “Phr0z3nG047s" (PG) | Team “No Jar Jar" (NJJ)
+-------- | --------
+Jakob | Carl Johan
+Nynne | Pedro
+Bastian | Tiemo
+Cæcilie | Nicolai
 
 **10:35(ish)**
 Groups divide and start working. Both groups approach the datasprint in an apparently ad hoc manner, not structuring their work 
@@ -51,6 +46,9 @@ Team PG comment that it's about time to decide and start working on a concrete p
 
 **14:28**
 Team PG have started to look for the options for creating dashboards in Watson. 
+
+*14:50**
+Comment to the prospect of studying the datasprint: Very difficult to figure out how to study without intervening too much. Based on previous datasprints, we can perhaps start to conclude that being part of the datasprint and studying it at the same time is extremely difficult. More testing is needed, and I am sure that there is a lot to learn from previous efforts at participant observation/ethnographic studies of science and technology processes. 
 
 Images from the datasprint:
 
