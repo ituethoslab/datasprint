@@ -38,3 +38,7 @@ they have. The tools is compared to Tableau (unfavourably) and is committed upon
 Lunch and status. Both groups are postive about the whole datasprint, but slightly frustrated with Watson Analytics. It becomes clear that 
 team NJJ have had more success using Trifacta than team PG have. The former have used it for data cleaning, whereas the latter has not used
 it to any large extent and have actually experienced technical difficulties with the tool. 
+
+**14:05**
+Bastian from team PG comments that maybe the issue isn't Watson, as much of their own relative skill level. Jakob agrees, but adds 
+that it would also help if it wasn't so slow. 
