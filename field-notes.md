@@ -63,6 +63,10 @@ Team NJJ have given up on working with the twitter data, and are now working wit
 **15:53**
 Team PG are in the process of creating an assembly of their data, and seem to have come to terms with Watson a lot more than they were earlier. 
 
+**16:16**
+Tiemo's feedback for Watson: Predictive modelling goes very fast. But it seems technically faulty. Half of team NJJ have to leave, due to other obligations. They send the following result: 
+
+
 **Images from the datasprint:**
 
 Jakob explaining a potential visualization:
