@@ -42,3 +42,45 @@ it to any large extent and have actually experienced technical difficulties with
 **14:05**
 Bastian from team PG comments that maybe the issue isn't Watson, as much of their own relative skill level. Jakob agrees, but adds 
 that it would also help if it wasn't so slow. 
+
+*14:10**
+Team NJJ are listening to tutorials for using the tools. 
+
+**14:20**
+Team PG comment that it's about time to decide and start working on a concrete project.
+
+**14:28**
+Team PG have started to look for the options for creating dashboards in Watson. 
+
+Images from the datasprint:
+
+Jakob explaining a potential visualization:
+![Jakob](/images/DSC_0101.JPG)
+
+The rest of team Phr0z3nG047s
+![Bastian, Nynne og Cæcilie](/images/DSC_0102.JPG)
+
+Thoughtful posing
+![Tiemo + Nicolai](/images/DSC_0103.JPG)
+
+Over the should of Carl Johan
+![Pedro + Tiemo](/images/DSC_0104.JPG)
+
+Phr0z3nG047s Setup
+![Bastian + Jakob](/images/DSC_0105.JPG)
+
+Excel to the rescue
+![Jakob](/images/DSC_0107.JPG)
+
+Discussing
+![Team Phr0z3nG047s](/images/DSC_0108.JPG)
+
+Working
+![Team No Jar Jar](/images/DSC_0109.JPG)
+
+Working
+![Team No Jar Jar 2](/images/DSC_0110.JPG)
+
+Wordcloud on the Wall
+![Visualization](/images/DSC_0111.JPG)
+
