@@ -47,10 +47,10 @@ Team PG comment that it's about time to decide and start working on a concrete p
 **14:28**
 Team PG have started to look for the options for creating dashboards in Watson. 
 
-*14:50**
+**14:50**
 Comment to the prospect of studying the datasprint: Very difficult to figure out how to study without intervening too much. Based on previous datasprints, we can perhaps start to conclude that being part of the datasprint and studying it at the same time is extremely difficult. More testing is needed, and I am sure that there is a lot to learn from previous efforts at participant observation/ethnographic studies of science and technology processes. 
 
-Images from the datasprint:
+**Images from the datasprint:**
 
 Jakob explaining a potential visualization:
 ![Jakob](/images/DSC_0101.JPG)
