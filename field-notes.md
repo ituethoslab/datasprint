@@ -1,16 +1,11 @@
 #Watson Analytics datasprint observational notes
 
-- Team “Phr0z3nG047s" (PG)
-Jakob
-Nynne
-Bastian
-Cæcilie
-
-- Team “No Jar Jar" (NJJ)
-Carl Johan
-Pedro
-Tiemo
-Nicolai
+Team “Phr0z3nG047s" (PG) | Team “No Jar Jar" (NJJ)
+-------- | --------
+Jakob | Carl Johan
+Nynne | Pedro
+Bastian | Tiemo
+Cæcilie | Nicolai
 
 **10:35(ish)**
 Groups divide and start working. Both groups approach the datasprint in an apparently ad hoc manner, not structuring their work 
