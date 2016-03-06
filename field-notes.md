@@ -63,6 +63,19 @@ Team NJJ have given up on working with the twitter data, and are now working wit
 **15:53**
 Team PG are in the process of creating an assembly of their data, and seem to have come to terms with Watson a lot more than they were earlier. 
 
+**16:16**
+Tiemo's feedback for Watson: Predictive modelling goes very fast. But it seems technically faulty. Half of team NJJ have to leave, due to other obligations. They send the following result: 
+https://github.com/mhockenhull/watson-datasprint/blob/master/submissions/titanic3_view-1.pdf
+
+**16:28**
+Presentation from team PG; maps of 
+Presentation from team NJJ; 
+Discussion of the work processes and experience. Trifacta good for twitter data, not for the rest of structured data. Some of this needed to be cleaned manually. 
+Assesment of Watson & Trifacta: Slow, use a lot of time waiting for it to process even small changes to the data. Not good for text handling/wtangling. Read some numbers as text, and could not easily change data formats. After a while one just accepts the limits of the programme - not that one gets really good to it. However there seems to be a very steep learning curve. When one compares to other tools/programmes to do the same stuff, it doesn't perform very well. Prediction may be a strong suit that other programmes don't supply, but it doesn't function very well. One can however do network graphs, which is a strength over Tableau for instance. These aren't very nice looking compared to Gephi. Also very clearly directed towards business outcomes. Correlations are the prime topic. 
+Trifacta on the other hand seems pretty good, although some had problems using it. Comparable to OpenRegine, but much easier to use. Seems helpful towards doing things that would otherwise require programming to fix. 
+
+Assesment of Datasprint: Did it have any effect that it was a competition? Jakob felt that there was a bit more focus on delivering something because of it. Nynne thought it was nice that there were completely distinct groups, Groups have previously been less well-defined Helped that there were two separate rooms. Has been quite mellow, and very good that we had the whole day to it. One of the great things about the ReD datasprint was that it was over several days. More time is generally necessary; out of 6-7 hours, 1-2 hours went with cleaning the data, and then there isn't that much time left to work with. Coordination: Group PG didn't find that SCRUM would make sense since they didn't know what to focus on. Carl Johan: could have been nice with some overall questions to work from. Nicolai: counter demands on time given that they wanted to explore but also had to think about the outcome. Jakob: The datasprint was satisfactory in the sense that he never would have gotten this far with Watson on his own, given the learning curve. The collective process adds to this sense-making process. 
+
 **Images from the datasprint:**
 
 Jakob explaining a potential visualization:
