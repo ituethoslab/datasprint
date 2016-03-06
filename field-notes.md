@@ -65,7 +65,7 @@ Team PG are in the process of creating an assembly of their data, and seem to ha
 
 **16:16**
 Tiemo's feedback for Watson: Predictive modelling goes very fast. But it seems technically faulty. Half of team NJJ have to leave, due to other obligations. They send the following result: 
-
+https://github.com/mhockenhull/watson-datasprint/blob/master/submissions/titanic3_view-1.pdf
 
 **Images from the datasprint:**
 
