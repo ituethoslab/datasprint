@@ -67,6 +67,11 @@ Team PG are in the process of creating an assembly of their data, and seem to ha
 Tiemo's feedback for Watson: Predictive modelling goes very fast. But it seems technically faulty. Half of team NJJ have to leave, due to other obligations. They send the following result: 
 https://github.com/mhockenhull/watson-datasprint/blob/master/submissions/titanic3_view-1.pdf
 
+**16:28**
+Presentation from team PG; maps of 
+Presentation from team NJJ; 
+Discussion of the work processes and experience. Trifacta good for twitter data, not for the rest of structured data. Some of this needed to be cleaned manually. 
+
 **Images from the datasprint:**
 
 Jakob explaining a potential visualization:
