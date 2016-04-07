@@ -4,7 +4,7 @@
 
 10:30 - Introduction to the student housing situation by Malte Moll Wingender, Analyse og Tal
 
-11:00 - Data collection brainstorm & Setting Data Collection Teams
+11:00 - Research Design, Data collection brainstorm & Setting Data Collection Teams
 
 12:00 - Lunch
 
