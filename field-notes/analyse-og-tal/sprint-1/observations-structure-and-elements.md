@@ -42,10 +42,10 @@ Malte: Of other topics, waiting lists, international students and comparisons wo
 
 Tentative RD: "How is the housing situation discussed on Facebook?"  
 Tentative RD: "How is the housing situation discussed online?"  
-Tentative RD: "How is the housing situation discussed online in the Nordic countries?"
-Tentative RD: "How is the housing situation discussed online in Denmark, and in comparison to the Nordic countries?"
-Tentative RD: "How are the challenges faced by students in Denmark enacted online, and in comparison to other Scandinavian countries?"
-Tentative RD: "How are the challenges faced by students in Denmark enacted on different online platforms, potentially in comparison to other Scandinavian countries?"
+Tentative RD: "How is the housing situation discussed online in the Nordic countries?"  
+Tentative RD: "How is the housing situation discussed online in Denmark, and in comparison to the Nordic countries?"  
+Tentative RD: "How are the challenges faced by students in Denmark enacted online, and in comparison to other Scandinavian countries?"  
+Tentative RD: "How are the challenges faced by students in Denmark enacted on different online platforms, potentially in comparison to other Scandinavian countries?"  
 
 
 Data Collection Brainstorm:  
@@ -55,12 +55,31 @@ Data Collection Brainstorm:
 - Bastian: Maps. 
 - Michael: KKIK waiting list. 
 
+Group brainstorm results;  
+Jakob, Bastian, Susan, Nicolai - Looked at housing portals, which can and should be scraped, but which will mostly tell us something about the supply of housing. Try to find a portal that has an overview of the different postings, and then scrape those sites continously to get an impression of the demand for housing.  
+Jakob looked at his Facebook media database, and found 3.200 stories about housing.  
+Being cheated is a big theme in the housing situation.  
 
-Setting Data Collection Teams:  
+Tiemo, Kristian, Cæcilie, Michael, Malte - Tiemo suggests that we could scrape data on housing offers and then calculate the average prices for a typical student accommodation, in order to compare it with the government's standards.  
+Michael; we talked about maps, and scraping data from the positions of kollegiums.  
 
+**Setting Data Collection Teams:**  
 
+Facebook  
+Tiemo, Susan    
 
-12:00 - Lunch
+Instagram  
+Kristian, Michael
+
+Web Scraping  
+Jakob, Bastian, Pedro  
+
+Mapping Group  
+Nicolai, Cæcilie 
+
+Everyone will look at the data available, and then we will decide what to work with. 
+
+**12:00 - Lunch**
 
 13:00 - Sprinting: Data Collection
 
@@ -68,7 +87,8 @@ Setting Data Collection Teams:
 
 14:40 - Sprinting: Data Collection
 
-15:30 - Summary of the days events and progress
+15:30 - Summary of the days events and progress ->  
+15:15 Summary moved to this time, due to changes in 
 
 16:00 - Datasprint ends
 
