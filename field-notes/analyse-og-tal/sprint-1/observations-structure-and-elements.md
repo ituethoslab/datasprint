@@ -6,10 +6,10 @@ Majority late, Bastian, Kristian and Nicolai on time.
 
 Copy of the agenda, in order to structure observations around this:  
 
-10:00 - Welcome by Michael Hockenhull, ETHOS Lab
+**10:00 - Welcome by Michael Hockenhull, ETHOS Lab**
 Brief presentation: welcome, agenda, agenda of other datasprints. Jakob suggests that we start the data collection before lunch, rather than after.  
 
-10:30 - Introduction to the student housing situation by Malte Moll Wingender, Analyse og Tal
+**10:30 - Introduction to the student housing situation by Malte Moll Wingender, Analyse og Tal**
 Presentation by Malte: Sociologist from UCPH. Works with traditional methods (surveys, registrational data), started survey two weeks ago, have around 3.500 replies. Will probably end up with 5.000 replies in total. Distributing through a facebook link and through e-mail to an already existing link. Respondents are from the whole country.    
 Will explain about the background and scope of the project;  
 4 critical issues:  
@@ -35,7 +35,7 @@ Malte: Yeah, but other perspectives could also be interesting - the elderly, col
 
 Meta-comment; much notetaking by Bastian, Nikolai and Michael. Others are mainly listening. 
 
-11:00 - Data collection brainstorm & Setting Data Collection Teams
+**11:00 - Data collection brainstorm & Setting Data Collection Teams**
 
 Research Design Brainstorm:  
 Malte: Of other topics, waiting lists, international students and comparisons would be very interesting.  
@@ -81,14 +81,14 @@ Everyone will look at the data available, and then we will decide what to work w
 
 **12:00 - Lunch**
 
-13:00 - Sprinting: Data Collection
+**13:00 - Sprinting: Data Collection**
 
-14:30 - Status Meeting
+**14:30 - Status Meeting**
 
-14:40 - Sprinting: Data Collection
+**14:40 - Sprinting: Data Collection**
 
-15:30 - Summary of the days events and progress ->  
-15:15 Summary moved to this time, due to changes in 
+**15:30 - Summary of the days events and progress ->  
+15:15 Summary moved to this time, due to changes in** 
 
-16:00 - Datasprint ends
+**16:00 - Datasprint ends**
 
