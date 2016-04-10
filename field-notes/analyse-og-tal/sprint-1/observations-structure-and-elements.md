@@ -90,5 +90,16 @@ Everyone will look at the data available, and then we will decide what to work w
 **15:30 - Summary of the days events and progress ->  
 15:15 Summary moved to this time, due to changes in** 
 
+Summary and discussion of data collection;  
+Status of different groups:  
+- Instagram group: Started  
+- Mapping group: 29 out of 90 collegiums from kbh-kollegier.dk manually scraped.  
+- Scraping group: Divided 3 apartment pages between the members (dba.dk, boliga.dk, ledigelejligheder.dk). All using different methods and encountering some problems.  
+- Facebook group: Found the biggest 15 open/public pages on Facebook, and scraping them now. 
+
+Further development of research question/design:  
+Tentative RD: "How are the challenges faced by students in Denmark enacted on different online platforms, potentially in comparison to other Scandinavian countries?"  
+
+
 **16:00 - Datasprint ends**
 
