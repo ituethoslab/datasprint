@@ -6,10 +6,10 @@ Majority late, Bastian, Kristian and Nicolai on time.
 
 Copy of the agenda, in order to structure observations around this:  
 
-10:00 - Welcome by Michael Hockenhull, ETHOS Lab
+**10:00 - Welcome by Michael Hockenhull, ETHOS Lab**
 Brief presentation: welcome, agenda, agenda of other datasprints. Jakob suggests that we start the data collection before lunch, rather than after.  
 
-10:30 - Introduction to the student housing situation by Malte Moll Wingender, Analyse og Tal
+**10:30 - Introduction to the student housing situation by Malte Moll Wingender, Analyse og Tal**
 Presentation by Malte: Sociologist from UCPH. Works with traditional methods (surveys, registrational data), started survey two weeks ago, have around 3.500 replies. Will probably end up with 5.000 replies in total. Distributing through a facebook link and through e-mail to an already existing link. Respondents are from the whole country.    
 Will explain about the background and scope of the project;  
 4 critical issues:  
@@ -35,17 +35,17 @@ Malte: Yeah, but other perspectives could also be interesting - the elderly, col
 
 Meta-comment; much notetaking by Bastian, Nikolai and Michael. Others are mainly listening. 
 
-11:00 - Data collection brainstorm & Setting Data Collection Teams
+**11:00 - Data collection brainstorm & Setting Data Collection Teams**
 
 Research Design Brainstorm:  
 Malte: Of other topics, waiting lists, international students and comparisons would be very interesting.  
 
 Tentative RD: "How is the housing situation discussed on Facebook?"  
 Tentative RD: "How is the housing situation discussed online?"  
-Tentative RD: "How is the housing situation discussed online in the Nordic countries?"
-Tentative RD: "How is the housing situation discussed online in Denmark, and in comparison to the Nordic countries?"
-Tentative RD: "How are the challenges faced by students in Denmark enacted online, and in comparison to other Scandinavian countries?"
-Tentative RD: "How are the challenges faced by students in Denmark enacted on different online platforms, potentially in comparison to other Scandinavian countries?"
+Tentative RD: "How is the housing situation discussed online in the Nordic countries?"  
+Tentative RD: "How is the housing situation discussed online in Denmark, and in comparison to the Nordic countries?"  
+Tentative RD: "How are the challenges faced by students in Denmark enacted online, and in comparison to other Scandinavian countries?"  
+Tentative RD: "How are the challenges faced by students in Denmark enacted on different online platforms, potentially in comparison to other Scandinavian countries?"  
 
 
 Data Collection Brainstorm:  
@@ -55,20 +55,51 @@ Data Collection Brainstorm:
 - Bastian: Maps. 
 - Michael: KKIK waiting list. 
 
+Group brainstorm results;  
+Jakob, Bastian, Susan, Nicolai - Looked at housing portals, which can and should be scraped, but which will mostly tell us something about the supply of housing. Try to find a portal that has an overview of the different postings, and then scrape those sites continously to get an impression of the demand for housing.  
+Jakob looked at his Facebook media database, and found 3.200 stories about housing.  
+Being cheated is a big theme in the housing situation.  
 
-Setting Data Collection Teams:  
+Tiemo, Kristian, Cæcilie, Michael, Malte - Tiemo suggests that we could scrape data on housing offers and then calculate the average prices for a typical student accommodation, in order to compare it with the government's standards.  
+Michael; we talked about maps, and scraping data from the positions of kollegiums.  
+
+**Setting Data Collection Teams:**  
+
+Facebook  
+Tiemo, Susan    
+
+Instagram  
+Kristian, Michael
+
+Web Scraping  
+Jakob, Bastian, Pedro  
+
+Mapping Group  
+Nicolai, Cæcilie 
+
+Everyone will look at the data available, and then we will decide what to work with. 
+
+**12:00 - Lunch**
+
+**13:00 - Sprinting: Data Collection**
+
+**14:30 - Status Meeting**
+
+**14:40 - Sprinting: Data Collection**
+
+**15:30 - Summary of the days events and progress ->  
+15:15 Summary moved to this time, due to changes in** 
+
+Summary and discussion of data collection;  
+Status of different groups:  
+- Instagram group: Started  
+- Mapping group: 29 out of 90 collegiums from kbh-kollegier.dk manually scraped.  
+- Scraping group: Divided 3 apartment pages between the members (dba.dk, boliga.dk, ledigelejligheder.dk). All using different methods and encountering some problems.  
+- Facebook group: Found the biggest 15 open/public pages on Facebook, and scraping them now. 
+
+Further development of research question/design:  
+Tentative RD: "How are the challenges faced by students in Denmark enacted on different online platforms, potentially in comparison to other Scandinavian countries?"  
 
 
-
-12:00 - Lunch
-
-13:00 - Sprinting: Data Collection
-
-14:30 - Status Meeting
-
-14:40 - Sprinting: Data Collection
-
-15:30 - Summary of the days events and progress
-
-16:00 - Datasprint ends
+**16:00 - Datasprint ends**
 
